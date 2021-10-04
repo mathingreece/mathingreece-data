@@ -20,7 +20,7 @@ jobs:
           cat dist/events.json;
       - name: deploy
         run:
-          aws s3 cp dist/ s3://${{secrets.S3_BUCKET_NAME}} --recursive;
+          aws s3 cp dist/ s3://${{secrets.S3_BUCKET_NAME}} --recursive --acl public-read;
       - name: invalidate-CDN
         run:
           aws configure set preview.cloudfront true;
