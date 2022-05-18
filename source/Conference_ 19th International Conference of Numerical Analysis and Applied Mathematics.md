@@ -6,6 +6,6 @@ startDate: 2021-09-20
 endDate: 2021-09-26
 researchFields: Numerical Analysis, Applied Mathematics
 location: Rhodes, Greece
-link: http://icnaam.org/
+link: 
 type: conference
 ---
