@@ -6,6 +6,6 @@ startDate: 2022-09-19
 endDate: 2022-09-25
 researchFields: Numerical Analysis, Applied Mathematics
 location: Heraklion, Greece
-link: http://icnaam.org/
+link: 
 type: conference
 ---
