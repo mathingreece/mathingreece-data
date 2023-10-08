@@ -1,6 +1,6 @@
 ---
 title: "3rd Analysis Symposium"
-subTitle: "On the occasion of the retirement of Evangelos Felouzis"
+subTitle: "On the occasion of the retirement of Evangelos Felouzis."
 image:
 startDate: 2023-06-02
 endDate: 2023-06-03
