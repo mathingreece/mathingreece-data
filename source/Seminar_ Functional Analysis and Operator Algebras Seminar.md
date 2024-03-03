@@ -4,6 +4,6 @@ subTitle: ""
 image:
 researchFields: Analysis
 location: Athens, Greece
-link: http://users.uoa.gr/%7Eakatavol/anak2122.html
+link: https://sites.google.com/view/athfaoa/
 type: seminar
 ---
