@@ -5,7 +5,7 @@ image:
 startDate: 2024-05-16
 endDate: 2024-05-19
 researchFields: Statistics
-location: Athens, Greece
+location: Kozani, Greece
 link: https://esi2024.mech.uowm.gr/en/
 type: conference
 ---
