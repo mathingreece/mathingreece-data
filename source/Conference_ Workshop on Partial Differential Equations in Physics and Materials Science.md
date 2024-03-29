@@ -1,5 +1,5 @@
 ---
-title: "Workshop on Partial Differential Equations in Physics and Materials Science"
+title: "Partial Differential Equations in Physics and Materials Science"
 subTitle: ""
 image:
 startDate: 2024-05-29
