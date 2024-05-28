@@ -1,6 +1,6 @@
 ---
 title: "Festum pi 2024"
-subTitle: "Music and Maths on the Aegean islands"
+subTitle: "Music and Maths on the Aegean islands."
 image:
 startDate: 2024-07-08
 endDate: 2024-07-20
