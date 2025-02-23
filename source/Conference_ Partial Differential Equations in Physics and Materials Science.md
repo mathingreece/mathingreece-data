@@ -6,6 +6,6 @@ startDate: 2024-05-29
 endDate: 2024-05-31
 researchFields: Mathematical Physics
 location: Heraklion, Greece
-link: http://users.math.uoc.gr/~komineas/Event/2024PDE/index.html
+link: 
 type: conference
 ---
