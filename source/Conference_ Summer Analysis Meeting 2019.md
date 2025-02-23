@@ -6,6 +6,6 @@ startDate: 2019-06-27
 endDate: 2019-06-27
 researchFields: Analysis
 location: Thessaloniki, Greece
-link: https://www.math.auth.gr/el/node/3296
+link: 
 type: conference
 ---

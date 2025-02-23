@@ -6,6 +6,6 @@ startDate: 2019-05-30
 endDate: 2019-06-01
 researchFields: Statistics
 location: Ioannina, Greece
-link: http://esi2019.conf.uoi.gr/?lang=en
+link: 
 type: conference
 ---

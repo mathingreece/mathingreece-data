@@ -6,6 +6,6 @@ startDate: 2024-07-01
 endDate: 2024-07-04
 researchFields: Education of Mathematics
 location: Athens, Greece
-link: https://www.atiner.gr/mathematics
+link: 
 type: conference
 ---

@@ -6,6 +6,6 @@ startDate: 2019-06-18
 endDate: 2019-06-21
 researchFields: Applied Mathematics
 location: Chania, Greece
-link: http://www.cmsim.org/
+link: 
 type: conference
 ---

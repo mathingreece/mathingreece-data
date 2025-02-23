@@ -6,6 +6,6 @@ startDate: 2023-07-13
 endDate: 2023-07-19
 researchFields: Algebra, Geometry
 location: Nisyros, Greece
-link: http://www.nisyrosmathconference.org/
+link: 
 type: conference
 ---
