@@ -6,6 +6,6 @@ startDate: 2019-06-04
 endDate: 2019-06-04
 researchFields: All fields
 location: Patra, Greece
-link: https://www.math.upatras.gr/el/news/conferences/
+link: 
 type: conference
 ---
