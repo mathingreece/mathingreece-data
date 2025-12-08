@@ -6,6 +6,6 @@ startDate: 2026-09-18
 endDate: 2026-09-20
 researchFields: Geometry
 location: Patra, Greece
-link: 
+link: http://17pgc.math.upatras.gr/
 type: conference
 ---
