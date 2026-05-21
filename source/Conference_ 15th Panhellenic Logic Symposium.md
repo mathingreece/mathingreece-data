@@ -6,6 +6,6 @@ startDate: 2026-07-06
 endDate: 2026-07-10
 researchFields: Logic
 location: Athens, Greece
-link: 
+link: http://panhellenic-logic-symposium.org/15/
 type: conference
 ---
